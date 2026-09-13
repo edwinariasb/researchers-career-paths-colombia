@@ -36,7 +36,7 @@ https://github.com/edwinariasb/researchers-career-paths-colombia.git
 
 ## First push
 
-From this project directory:
+From this project directory :
 
 ```bash
 git init
